@@ -1,0 +1,2 @@
+# MirrorBotGo Extraction Scripts
+This repository houses the extraction scripts for the Direct Download Generator module for MirrorBotGo, MirrorBotGo uses Goja: The JavaScript Engine to run them and aquire a direct download link.
